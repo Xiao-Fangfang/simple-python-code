@@ -1,2 +1,2 @@
-# simple-python-code
-some simple python code for beginners
+# Latex
+Latex of some mathematical notes
